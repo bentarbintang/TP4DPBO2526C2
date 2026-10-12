@@ -224,23 +224,20 @@ Menekan **Cancel** memanggil `clearForm()`: semua input dikosongkan, combo box k
 
 Berikut dokumentasi saat program dijalankan yang mencakup **semua operasi CRUD**.
 
-### 7.1 Tampilan Awal (Read)
+### Tampilan Awal
 
-![Tampilan awal]( <img width="514" height="440" alt="Screenshot 2026-10-12 195337" src="https://github.com/user-attachments/assets/9c4e0acc-49ff-4e8f-824b-653112a4cb23" />)
+<img width="514" height="440" alt="Screenshot 2026-10-12 195337" src="https://github.com/user-attachments/assets/9c4e0acc-49ff-4e8f-824b-653112a4cb23" />
 
 *Saat program dibuka, tabel langsung menampilkan data awal dari `populateList()`.*
 
-![Tampilan ketika menambahkan data](
-
+### Tampilan ketika menambahkan data (Add)
 https://github.com/user-attachments/assets/a878b987-057f-463c-8dc7-fbedb61a678d
 
-)
-
-![Tampilan ketika mengupdate data]( 
-
+### Tampilan ketika mengupdate data (Update)
 https://github.com/user-attachments/assets/7ea4f584-69e4-43c6-b302-a811afbc0ba1
 
-)
+### Tampilan ketika menghapus data (Delete) ada konfirmasi sebelum menghapus data
+https://github.com/user-attachments/assets/13660006-e61a-42ed-86a8-bae6a237a3dc
 
 
 
