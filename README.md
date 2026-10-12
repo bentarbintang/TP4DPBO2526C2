@@ -226,12 +226,21 @@ Berikut dokumentasi saat program dijalankan yang mencakup **semua operasi CRUD**
 
 ### 7.1 Tampilan Awal (Read)
 
-![Tampilan awal](
+![Tampilan awal]( <img width="514" height="440" alt="Screenshot 2026-10-12 195337" src="https://github.com/user-attachments/assets/9c4e0acc-49ff-4e8f-824b-653112a4cb23" />)
 
-https://github.com/user-attachments/assets/6ed784a7-de3d-4d54-ac38-0a230c1c0be9
+*Saat program dibuka, tabel langsung menampilkan data awal dari `populateList()`.*
+
+![Tampilan ketika menambahkan data](
+
+https://github.com/user-attachments/assets/a878b987-057f-463c-8dc7-fbedb61a678d
 
 )
 
-*Saat program dibuka, tabel langsung menampilkan data awal dari `populateList()`.*
+![Tampilan ketika mengupdate data]( 
+
+https://github.com/user-attachments/assets/7ea4f584-69e4-43c6-b302-a811afbc0ba1
+
+)
+
 
 
