@@ -1,13 +1,13 @@
 # TP4DPBO2526C2
 
+Aplikasi desktop berbasis **Java Swing** untuk mengelola data civitas kampus dengan operasi **CRUD** (Create, Read, Update, Delete). Dibuat untuk memenuhi Tugas Praktikum 4 mata kuliah Desain Pemrograman Berorientasi Objek (Modul 4: Introduction to Java Swing GUI).
+
 ## Janji
 
 ```
 Saya Bentar Bintang Umeir dengan nim 2509865 mengerjakan TP4 dalam mata kuliah DPBO untuk 
 keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 ```
-
-Aplikasi desktop berbasis **Java Swing** untuk mengelola data civitas kampus dengan operasi **CRUD** (Create, Read, Update, Delete). Dibuat untuk memenuhi Tugas Praktikum 4 mata kuliah Desain Pemrograman Berorientasi Objek (Modul 4: Introduction to Java Swing GUI).
 
 ---
 
