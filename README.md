@@ -226,7 +226,11 @@ Berikut dokumentasi saat program dijalankan yang mencakup **semua operasi CRUD**
 
 ### 7.1 Tampilan Awal (Read)
 
-![Tampilan awal](Dokumentasi/read.png)
+![Tampilan awal](
+
+https://github.com/user-attachments/assets/6ed784a7-de3d-4d54-ac38-0a230c1c0be9
+
+)
 
 *Saat program dibuka, tabel langsung menampilkan data awal dari `populateList()`.*
 
